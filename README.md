@@ -1,4 +1,4 @@
-# 🌍 Travel Guide – Discover the World Effortlessly
+# 🌍 Travel Guide - Discover the World Effortlessly
 
 Explore curated travel packages across the globe with **Travel Guide**, a sleek React app built for rapid access to travel information. This project demonstrates seamless **API integration using Fetch**, real-time UI updates with a loader, and clean component structuring.
 
